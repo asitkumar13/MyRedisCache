@@ -1,0 +1,14 @@
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/bin/Debug/netcoreapp2.1/MyRedisCache.deps.json
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/bin/Debug/netcoreapp2.1/MyRedisCache.runtimeconfig.json
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/bin/Debug/netcoreapp2.1/MyRedisCache.runtimeconfig.dev.json
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/bin/Debug/netcoreapp2.1/MyRedisCache.dll
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/bin/Debug/netcoreapp2.1/MyRedisCache.pdb
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/obj/Debug/netcoreapp2.1/MyRedisCache.csprojAssemblyReference.cache
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/obj/Debug/netcoreapp2.1/MyRedisCache.csproj.CoreCompileInputs.cache
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/obj/Debug/netcoreapp2.1/MyRedisCache.RazorAssemblyInfo.cache
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/obj/Debug/netcoreapp2.1/MyRedisCache.RazorAssemblyInfo.cs
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/obj/Debug/netcoreapp2.1/MyRedisCache.AssemblyInfoInputs.cache
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/obj/Debug/netcoreapp2.1/MyRedisCache.AssemblyInfo.cs
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/obj/Debug/netcoreapp2.1/MyRedisCache.RazorTargetAssemblyInfo.cache
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/obj/Debug/netcoreapp2.1/MyRedisCache.dll
+/Users/asitkumar/Projects/MyRedisCache/MyRedisCache/obj/Debug/netcoreapp2.1/MyRedisCache.pdb
