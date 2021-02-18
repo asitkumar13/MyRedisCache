@@ -5,6 +5,8 @@ RUN dotnet restore
 RUN dotnet publish MyRedisCache.sln --no-restore -c Release -o /app/out
 RUN ls
 
+#### test
+
 FROM microsoft/dotnet:2.2.1-aspnetcore-runtime-alpine
 #ENV ASPNETCORE_URLS=http://+:80
 WORKDIR /app
