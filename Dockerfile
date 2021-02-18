@@ -7,6 +7,8 @@ RUN ls
 
 #### test
 
+## asit changes
+
 FROM microsoft/dotnet:2.2.1-aspnetcore-runtime-alpine
 #ENV ASPNETCORE_URLS=http://+:80
 WORKDIR /app
